@@ -23,6 +23,11 @@
             "name": "com.unity.modules.director",
             "expression": "",
             "define": "DIRECTOR_ENABLED"
+        },
+        {
+            "name": "com.unity.modules.director",
+            "expression": "",
+            "define": "DOTWEEN_ENABLED"
         }
     ],
     "noEngineReferences": false
